@@ -31,8 +31,3 @@ def reduce_mem_usage(df, verbose=True):
 
 # feature selection 
 https://github.com/duxuhao/Feature-Selection
-
-
-
-#SBBTree
-https://github.com/Cookly404/2019-Cookly2Voice.git
